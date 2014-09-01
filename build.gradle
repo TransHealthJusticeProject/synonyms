@@ -6,4 +6,5 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.+'
+    compile 'org.codeartisans:org.json:20131017'
 }
