@@ -1,0 +1,3442 @@
+[
+  {
+    "fullword":"Access",
+    "abbreviation":"Accs",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Air Force Base",
+    "abbreviation":"AFB",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"US"
+  },
+  {
+    "fullword":"Air National Guard Base",
+    "abbreviation":"ANGB",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"US"
+  },
+  {
+    "fullword":"Airport",
+    "abbreviation":"Aprt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Alley",
+    "abbreviation":"Al",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Alley",
+    "abbreviation":"All",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Alley",
+    "abbreviation":"Ally",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Alley",
+    "abbreviation":"Aly",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Alleyway",
+    "abbreviation":"Alwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Amble",
+    "abbreviation":"Ambl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Apartments",
+    "abbreviation":"Apts",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"US"
+  },
+  {
+    "fullword":"Approach",
+    "abbreviation":"Apch",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Approach",
+    "abbreviation":"App",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Arcade",
+    "abbreviation":"Arc",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Arterial",
+    "abbreviation":"Artl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Artery",
+    "abbreviation":"Arty",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Avenue",
+    "abbreviation":"Av",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Avenue",
+    "abbreviation":"Ave",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Back",
+    "abbreviation":"Bk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Banan",
+    "abbreviation":"Ba",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Basin",
+    "abbreviation":"Basn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Basin",
+    "abbreviation":"Bsn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Beach",
+    "abbreviation":"Bch",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bend",
+    "abbreviation":"Bend",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bend",
+    "abbreviation":"Bnd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Block",
+    "abbreviation":"Blk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Boardwalk",
+    "abbreviation":"Bwlk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Boulevard",
+    "abbreviation":"Blvd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Boulevard",
+    "abbreviation":"Bvd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Boundary",
+    "abbreviation":"Bdy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bowl",
+    "abbreviation":"Bl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Brace",
+    "abbreviation":"Br",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Brae",
+    "abbreviation":"Br",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Brae",
+    "abbreviation":"Brae",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Break",
+    "abbreviation":"Brk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bridge",
+    "abbreviation":"Bdge",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bridge",
+    "abbreviation":"Br",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bridge",
+    "abbreviation":"Brdg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bridge",
+    "abbreviation":"Bri",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Broadway",
+    "abbreviation":"Bdwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Broadway",
+    "abbreviation":"Bway",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"includes B'way"
+  },
+  {
+    "fullword":"Broadway",
+    "abbreviation":"Bwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Brook",
+    "abbreviation":"Brk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Brow",
+    "abbreviation":"Brw",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Brow",
+    "abbreviation":"Brow",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Buildings",
+    "abbreviation":"Bldgs",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"also includes singular"
+  },
+  {
+    "fullword":"Buildings",
+    "abbreviation":"Bldngs",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"ditto"
+  },
+  {
+    "fullword":"Business",
+    "abbreviation":"Bus",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bypass",
+    "abbreviation":"Bps",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bypass",
+    "abbreviation":"Byp",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Bypass",
+    "abbreviation":"Bypa",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Byway",
+    "abbreviation":"Bywy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Caravan",
+    "abbreviation":"Cvn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Causeway",
+    "abbreviation":"Caus",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Causeway",
+    "abbreviation":"Cswy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Causeway",
+    "abbreviation":"Cway",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"includes C'way"
+  },
+  {
+    "fullword":"Center",
+    "abbreviation":"Cen",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"USA"
+  },
+  {
+    "fullword":"Center",
+    "abbreviation":"Ctr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"USA"
+  },
+  {
+    "fullword":"Central",
+    "abbreviation":"Ctrl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Centre",
+    "abbreviation":"Cen",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"UK (Some US places spell it this way too)"
+  },
+  {
+    "fullword":"Centre",
+    "abbreviation":"Ctr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"UK, Australia"
+  },
+  {
+    "fullword":"Centreway",
+    "abbreviation":"Cnwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Chase",
+    "abbreviation":"Ch",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Church",
+    "abbreviation":"Ch",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Circle",
+    "abbreviation":"Cir",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Circuit",
+    "abbreviation":"Cct",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Circuit",
+    "abbreviation":"Ci",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Circus",
+    "abbreviation":"Crc",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Circus",
+    "abbreviation":"Crcs",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"City",
+    "abbreviation":"Cty",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Close",
+    "abbreviation":"Cl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Common",
+    "abbreviation":"Cmn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Common",
+    "abbreviation":"Comm",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Community",
+    "abbreviation":"Comm",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Concourse",
+    "abbreviation":"Cnc",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Concourse",
+    "abbreviation":"Con",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Copse",
+    "abbreviation":"Cps",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Corner",
+    "abbreviation":"Cnr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Corner",
+    "abbreviation":"Crn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Corso",
+    "abbreviation":"Cso",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cottages",
+    "abbreviation":"Cotts",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"also includes singular"
+  },
+  {
+    "fullword":"County",
+    "abbreviation":"Co",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"County Road",
+    "abbreviation":"CR",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"County Route",
+    "abbreviation":"CR",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Court",
+    "abbreviation":"Crt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Court",
+    "abbreviation":"Ct",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Courtyard",
+    "abbreviation":"Cyd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Courtyard",
+    "abbreviation":"Ctyd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cove",
+    "abbreviation":"Ce",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cove",
+    "abbreviation":"Cov",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cove",
+    "abbreviation":"Cove",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cove",
+    "abbreviation":"Cv",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Creek",
+    "abbreviation":"Ck",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Creek",
+    "abbreviation":"Cr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Creek",
+    "abbreviation":"Crk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crescent",
+    "abbreviation":"Cr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crescent",
+    "abbreviation":"Cres",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Crest",
+    "abbreviation":"Crst",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crest",
+    "abbreviation":"Cst",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Croft",
+    "abbreviation":"Cft",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cross",
+    "abbreviation":"Cs",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cross",
+    "abbreviation":"Crss",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crossing",
+    "abbreviation":"Crsg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crossing",
+    "abbreviation":"Csg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crossing",
+    "abbreviation":"Xing",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crossroad",
+    "abbreviation":"Crd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Crossway",
+    "abbreviation":"Cowy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cul-de-sac",
+    "abbreviation":"Cds",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cul-de-sac",
+    "abbreviation":"Csac",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Curve",
+    "abbreviation":"Cve",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Cutting",
+    "abbreviation":"Cutt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Dale",
+    "abbreviation":"Dle",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Dale",
+    "abbreviation":"Dale",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Deviation",
+    "abbreviation":"Devn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Dip",
+    "abbreviation":"Dip",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Distributor",
+    "abbreviation":"Dstr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Down",
+    "abbreviation":"Dn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Downs",
+    "abbreviation":"Dn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Drive",
+    "abbreviation":"Dr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Drive",
+    "abbreviation":"Drv",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Drive",
+    "abbreviation":"Dv",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Driveway",
+    "abbreviation":"Drwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Driveway",
+    "abbreviation":"Dvwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Driveway",
+    "abbreviation":"Dwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"East",
+    "abbreviation":"E",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Edge",
+    "abbreviation":"Edg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Edge",
+    "abbreviation":"Edge",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Elbow",
+    "abbreviation":"Elb",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"End",
+    "abbreviation":"End",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Entrance",
+    "abbreviation":"Ent",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Esplanade",
+    "abbreviation":"Esp",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Estate",
+    "abbreviation":"Est",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Expressway",
+    "abbreviation":"Exp",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Expressway",
+    "abbreviation":"Expy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Expressway",
+    "abbreviation":"Expwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"California"
+  },
+  {
+    "fullword":"Extension",
+    "abbreviation":"Ex",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Fairway",
+    "abbreviation":"Fawy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Fairway",
+    "abbreviation":"Fy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Father",
+    "abbreviation":"Fr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ferry",
+    "abbreviation":"Fy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Field",
+    "abbreviation":"Fd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Fire Track",
+    "abbreviation":"Ftrk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Firetrail",
+    "abbreviation":"Fit",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Flat",
+    "abbreviation":"Fl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Flat",
+    "abbreviation":"Flat",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Follow",
+    "abbreviation":"Folw",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Footway",
+    "abbreviation":"Ftwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Foreshore",
+    "abbreviation":"Fshr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Formation",
+    "abbreviation":"Form",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Fort",
+    "abbreviation":"Ft",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Freeway",
+    "abbreviation":"Frwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Freeway",
+    "abbreviation":"Fwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Front",
+    "abbreviation":"Frnt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Frontage",
+    "abbreviation":"Fr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Frontage",
+    "abbreviation":"Frtg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gap",
+    "abbreviation":"Gap",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Garden",
+    "abbreviation":"Gdn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gardens",
+    "abbreviation":"Gdn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"also includes singular"
+  },
+  {
+    "fullword":"Gardens",
+    "abbreviation":"Gdns",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gate",
+    "abbreviation":"Ga",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gate",
+    "abbreviation":"Gte",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gates",
+    "abbreviation":"Ga",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gates",
+    "abbreviation":"Gte",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gateway",
+    "abbreviation":"Gwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"George",
+    "abbreviation":"Geo",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Glade",
+    "abbreviation":"Gl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Glade",
+    "abbreviation":"Gld",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Glade",
+    "abbreviation":"Glde",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Glen",
+    "abbreviation":"Gln",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Glen",
+    "abbreviation":"Glen",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Grange",
+    "abbreviation":"Gra",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Green",
+    "abbreviation":"Gn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Green",
+    "abbreviation":"Grn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ground",
+    "abbreviation":"Grnd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Grove",
+    "abbreviation":"Gr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Grove",
+    "abbreviation":"Gro",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Grovet",
+    "abbreviation":"Gr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Gully",
+    "abbreviation":"Gly",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Harbor",
+    "abbreviation":"Hbr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Harbour",
+    "abbreviation":"Hbr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Haven",
+    "abbreviation":"Hvn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Head",
+    "abbreviation":"Hd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Heads",
+    "abbreviation":"Hd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Heights",
+    "abbreviation":"Hgts",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Heights",
+    "abbreviation":"Ht",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Heights",
+    "abbreviation":"Hts",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"High School",
+    "abbreviation":"HS",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Highroad",
+    "abbreviation":"Hird",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Highroad",
+    "abbreviation":"Hrd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Highway",
+    "abbreviation":"Hwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Hill",
+    "abbreviation":"Hill",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Hill",
+    "abbreviation":"Hl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Hills",
+    "abbreviation":"Hl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Hills",
+    "abbreviation":"Hls",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Hospital",
+    "abbreviation":"Hosp",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"House",
+    "abbreviation":"Ho",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"House",
+    "abbreviation":"Hse",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Industrial",
+    "abbreviation":"Ind",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Interchange",
+    "abbreviation":"Intg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"International",
+    "abbreviation":"Intl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Island",
+    "abbreviation":"I",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Island",
+    "abbreviation":"Is",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Junction",
+    "abbreviation":"Jctn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Junction",
+    "abbreviation":"Jnc",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Junior",
+    "abbreviation":"Jr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Key",
+    "abbreviation":"Key",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lagoon",
+    "abbreviation":"Lgn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lakes",
+    "abbreviation":"L",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Landing",
+    "abbreviation":"Ldg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lane",
+    "abbreviation":"La",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lane",
+    "abbreviation":"Lane",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lane",
+    "abbreviation":"Ln",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Laneway",
+    "abbreviation":"Lnwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Line",
+    "abbreviation":"Line",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Line",
+    "abbreviation":"Ln",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"As in \"county line\" and \"state line\""
+  },
+  {
+    "fullword":"Link",
+    "abbreviation":"Link",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Link",
+    "abbreviation":"Lk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Little",
+    "abbreviation":"Lit",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Little",
+    "abbreviation":"Lt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lodge",
+    "abbreviation":"Ldg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lookout",
+    "abbreviation":"Lkt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Loop",
+    "abbreviation":"Loop",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Loop",
+    "abbreviation":"Lp",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lower",
+    "abbreviation":"Low",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lower",
+    "abbreviation":"Lr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Lower",
+    "abbreviation":"Lwr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mall",
+    "abbreviation":"Mall",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mall",
+    "abbreviation":"Ml",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Manor",
+    "abbreviation":"Mnr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mansions",
+    "abbreviation":"Mans",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Market",
+    "abbreviation":"Mkt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Meadow",
+    "abbreviation":"Mdw",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"also includes singular"
+  },
+  {
+    "fullword":"Meadows",
+    "abbreviation":"Mdw",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"also includes singular"
+  },
+  {
+    "fullword":"Meadows",
+    "abbreviation":"Mdws",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"also includes singular"
+  },
+  {
+    "fullword":"Mead",
+    "abbreviation":"Md",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Meander",
+    "abbreviation":"Mdr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Meander",
+    "abbreviation":"Mndr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Meander",
+    "abbreviation":"Mr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Medical",
+    "abbreviation":"Med",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Memorial",
+    "abbreviation":"Mem",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mews",
+    "abbreviation":"Mews",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mews",
+    "abbreviation":"Mw",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Middle",
+    "abbreviation":"Mid",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Middle School",
+    "abbreviation":"MS",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mile",
+    "abbreviation":"Mi",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Military",
+    "abbreviation":"Mil",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Motorway",
+    "abbreviation":"Mtwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Motorway",
+    "abbreviation":"Mwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mount",
+    "abbreviation":"Mt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mountain",
+    "abbreviation":"Mtn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Mountains",
+    "abbreviation":"Mtn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Municipal",
+    "abbreviation":"Mun",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Museum",
+    "abbreviation":"Mus",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"National Park",
+    "abbreviation":"NP",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"National Recreation Area",
+    "abbreviation":"NRA",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"National Wildlife Refuge Area",
+    "abbreviation":"NWRA",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Nook",
+    "abbreviation":"Nk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Nook",
+    "abbreviation":"Nook",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"North",
+    "abbreviation":"N",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Northeast",
+    "abbreviation":"NE",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Northwest",
+    "abbreviation":"NW",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Outlook",
+    "abbreviation":"Out",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Outlook",
+    "abbreviation":"Otlk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Parade",
+    "abbreviation":"Pde",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Paradise",
+    "abbreviation":"Pdse",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Park",
+    "abbreviation":"Park",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Park",
+    "abbreviation":"Pk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Parklands",
+    "abbreviation":"Pkld",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Parkway",
+    "abbreviation":"Pkwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Parkway",
+    "abbreviation":"Pky",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Parkway",
+    "abbreviation":"Pwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Pass",
+    "abbreviation":"Pass",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Pass",
+    "abbreviation":"Ps",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Passage",
+    "abbreviation":"Psge",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Path",
+    "abbreviation":"Path",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Pathway",
+    "abbreviation":"Phwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Pathway",
+    "abbreviation":"Pway",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Pathway",
+    "abbreviation":"Pwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Piazza",
+    "abbreviation":"Piaz",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Pike",
+    "abbreviation":"Pk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Place",
+    "abbreviation":"Pl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Plain",
+    "abbreviation":"Pl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Plains",
+    "abbreviation":"Pl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Plateau",
+    "abbreviation":"Plat",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Plaza",
+    "abbreviation":"Pl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Plaza",
+    "abbreviation":"Plz",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Plaza",
+    "abbreviation":"Plza",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Pocket",
+    "abbreviation":"Pkt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Point",
+    "abbreviation":"Pnt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Point",
+    "abbreviation":"Pt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Port",
+    "abbreviation":"Port",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Port",
+    "abbreviation":"Pt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Post Office",
+    "abbreviation":"PO",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"",
+    "notes":""
+  },
+  {
+    "fullword":"Precinct",
+    "abbreviation":"Pct",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Promenade",
+    "abbreviation":"Prm",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Promenade",
+    "abbreviation":"Prom",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Quad",
+    "abbreviation":"Quad",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Quadrangle",
+    "abbreviation":"Qdgl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Quadrant",
+    "abbreviation":"Qdrt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Quadrant",
+    "abbreviation":"Qd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Quay",
+    "abbreviation":"Qy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Quays",
+    "abbreviation":"Qy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Quays",
+    "abbreviation":"Qys",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ramble",
+    "abbreviation":"Ra",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ramble",
+    "abbreviation":"Rmbl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Range",
+    "abbreviation":"Rge",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Range",
+    "abbreviation":"Rnge",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Reach",
+    "abbreviation":"Rch",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Reservation",
+    "abbreviation":"Res",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Reserve",
+    "abbreviation":"Res",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Reservoir",
+    "abbreviation":"Res",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rest",
+    "abbreviation":"Rest",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rest",
+    "abbreviation":"Rst",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Retreat",
+    "abbreviation":"Rt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Retreat",
+    "abbreviation":"Rtt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Return",
+    "abbreviation":"Rtn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ridge",
+    "abbreviation":"Rdg",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ridge",
+    "abbreviation":"Rdge",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ridgeway",
+    "abbreviation":"Rgwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Right of Way",
+    "abbreviation":"Rowy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rise",
+    "abbreviation":"Ri",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rise",
+    "abbreviation":"Rise",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"River",
+    "abbreviation":"R",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"River",
+    "abbreviation":"Riv",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"River",
+    "abbreviation":"Rvr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Riverway",
+    "abbreviation":"Rvwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Riviera",
+    "abbreviation":"Rvra",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Road",
+    "abbreviation":"Rd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Roads",
+    "abbreviation":"Rds",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Roadside",
+    "abbreviation":"Rdsd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Roadway",
+    "abbreviation":"Rdwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Roadway",
+    "abbreviation":"Rdy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Robert",
+    "abbreviation":"Robt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rocks",
+    "abbreviation":"Rks",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Ronde",
+    "abbreviation":"Rnde",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rosebowl",
+    "abbreviation":"Rsbl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rotary",
+    "abbreviation":"Rty",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Round",
+    "abbreviation":"Rnd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Route",
+    "abbreviation":"Rt",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Route",
+    "abbreviation":"Rte",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Row",
+    "abbreviation":"Row",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Rue",
+    "abbreviation":"Rue",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Run",
+    "abbreviation":"Run",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Saint",
+    "abbreviation":"St",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Saints",
+    "abbreviation":"SS",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Senior",
+    "abbreviation":"Sr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Serviceway",
+    "abbreviation":"Swy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Serviceway",
+    "abbreviation":"Svwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Shunt",
+    "abbreviation":"Shun",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Siding",
+    "abbreviation":"Sdng",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Sister",
+    "abbreviation":"Sr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Slope",
+    "abbreviation":"Slpe",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Sound",
+    "abbreviation":"Snd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"South",
+    "abbreviation":"S",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"South",
+    "abbreviation":"Sth",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Southeast",
+    "abbreviation":"SE",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Southwest",
+    "abbreviation":"SW",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Spur",
+    "abbreviation":"Spur",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Square",
+    "abbreviation":"Sq",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Stairway",
+    "abbreviation":"Strwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"State Highway",
+    "abbreviation":"SH",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"Texas"
+  },
+  {
+    "fullword":"State Highway",
+    "abbreviation":"SHwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"State Route",
+    "abbreviation":"SR",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Station",
+    "abbreviation":"Sta",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Station",
+    "abbreviation":"Stn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Strand",
+    "abbreviation":"Sd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Strand",
+    "abbreviation":"Stra",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Street",
+    "abbreviation":"St",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Strip",
+    "abbreviation":"Strp",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Subway",
+    "abbreviation":"Sbwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Tarn",
+    "abbreviation":"Tn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Tarn",
+    "abbreviation":"Tarn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Terminal",
+    "abbreviation":"Term",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Terrace",
+    "abbreviation":"Tce",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Terrace",
+    "abbreviation":"Ter",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Terrace",
+    "abbreviation":"Terr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Thoroughfare",
+    "abbreviation":"Thfr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Thoroughfare",
+    "abbreviation":"Thor",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Tollway",
+    "abbreviation":"Tlwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Tollway",
+    "abbreviation":"Twy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Top",
+    "abbreviation":"Top",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Tor",
+    "abbreviation":"Tor",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Towers",
+    "abbreviation":"Twrs",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":"also includes singular"
+  },
+  {
+    "fullword":"Township",
+    "abbreviation":"Twp",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Trace",
+    "abbreviation":"Trce",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"",
+    "notes":""
+  },
+  {
+    "fullword":"Track",
+    "abbreviation":"Tr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Track",
+    "abbreviation":"Trk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Trail",
+    "abbreviation":"Trl",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Trailer",
+    "abbreviation":"Trlr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Triangle",
+    "abbreviation":"Tri",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Trunkway",
+    "abbreviation":"Tkwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Tunnel",
+    "abbreviation":"Tun",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Turn",
+    "abbreviation":"Tn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Turn",
+    "abbreviation":"Trn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Turn",
+    "abbreviation":"Turn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Turnpike",
+    "abbreviation":"Tpk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Turnpike",
+    "abbreviation":"Tpke",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Underpass",
+    "abbreviation":"Upas",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Underpass",
+    "abbreviation":"Ups",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"University",
+    "abbreviation":"Uni",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"University",
+    "abbreviation":"Univ",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Upper",
+    "abbreviation":"Up",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Upper",
+    "abbreviation":"Upr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Vale",
+    "abbreviation":"Va",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Vale",
+    "abbreviation":"Vale",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Valley",
+    "abbreviation":"Vy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Viaduct",
+    "abbreviation":"Vdct",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Viaduct",
+    "abbreviation":"Via",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Viaduct",
+    "abbreviation":"Viad",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"View",
+    "abbreviation":"Vw",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"View",
+    "abbreviation":"View",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Village",
+    "abbreviation":"Vill",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Villas",
+    "abbreviation":"Vlls",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Vista",
+    "abbreviation":"Vst",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Vista",
+    "abbreviation":"Vsta",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Walk",
+    "abbreviation":"Walk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Walk",
+    "abbreviation":"Wk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Walk",
+    "abbreviation":"Wlk",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Walkway",
+    "abbreviation":"Wkwy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Walkway",
+    "abbreviation":"Wky",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Waters",
+    "abbreviation":"Wtr",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Way",
+    "abbreviation":"Way",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Way",
+    "abbreviation":"Wy",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"West",
+    "abbreviation":"W",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"yes",
+    "notes":""
+  },
+  {
+    "fullword":"Wharf",
+    "abbreviation":"Whrf",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"William",
+    "abbreviation":"Wm",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Wynd",
+    "abbreviation":"Wyn",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Wynd",
+    "abbreviation":"Wynd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Yard",
+    "abbreviation":"Yard",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  },
+  {
+    "fullword":"Yard",
+    "abbreviation":"Yd",
+    "concatenated":false,
+    "separable":"n/a",
+    "implemented":"not yet",
+    "notes":""
+  }
+]
