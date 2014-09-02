@@ -1,7 +1,15 @@
 package com.mapzen.pelias.synonyms;
 
-/**
- * Created by franciscodans on 01/09/2014.
- */
+import org.json.JSONObject;
+
 public class Term {
+    public final String fullWord;
+    public final String abbreviation;
+    public final boolean concatenated;
+
+    public Term (JSONObject json){
+        fullWord = json.getString("fullword");
+        abbreviation = json.getString("abbreviation");
+        concatenated = json.getBoolean("concatenated");
+    }
 }
