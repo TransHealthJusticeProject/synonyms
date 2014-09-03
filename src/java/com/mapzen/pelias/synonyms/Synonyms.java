@@ -22,22 +22,20 @@ public class Synonyms {
         }
         try {
             PrintWriter writer = new PrintWriter("synonyms.txt", "UTF-8");
-            Iterator it = synMappings.entrySet().iterator();
-            while(it.hasNext()){
-                Map.Entry pair = (Map.Entry)it.next();
+            for (Map.Entry pair : synMappings.entrySet()) {
                 writer.print((pair.getKey() + " => "));
                 @SuppressWarnings("unchecked")
-                ArrayList<String> abbreviations = (ArrayList<String>)pair.getValue();
-                for(String abv: abbreviations){
+                ArrayList<String> abbreviations = (ArrayList<String>) pair.getValue();
+                for (String abv : abbreviations) {
                     writer.print(abv);
-                    if(!(abbreviations.get(abbreviations.size()-1) .equals(abv))){
+                    if (!(abbreviations.get(abbreviations.size() - 1).equals(abv))) {
                         writer.print(", ");
                     }
                 }
                 writer.print("\n");
             }
             writer.close();
-            System.out.println("Cool! synonyms.txt has been generated in "+System.getProperty("user.dir"));
+            System.out.println("\\u001B[32mCool! synonyms.txt has been generated in \\u001B[37m"+System.getProperty("user.dir"));
         } catch (FileNotFoundException e) {
             System.out.println("File not found");
             e.printStackTrace();
