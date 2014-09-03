@@ -18,7 +18,7 @@ For now this is a Java command line application that generates an ElasticSearch 
 
 ###Build
 
-This is very much a work in progress, build steps will follow soon. 
+You need [Java](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html) and [Gradle](https://gradle.org) installed in your system. To open the tool and produce ```synonyms.txt```, just clone the repo, and run ```gradle run``` on the project directory.
 
 ###Reference
 
