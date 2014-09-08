@@ -23,7 +23,6 @@ public class Synonyms {
         try {
             PrintWriter writer = new PrintWriter("synonyms.txt", "UTF-8");
             for (Map.Entry pair : synMappings.entrySet()) {
-                writer.print((pair.getKey() + " => "));
                 @SuppressWarnings("unchecked")
                 ArrayList<String> abbreviations = (ArrayList<String>) pair.getValue();
                 for (String abv : abbreviations) {
@@ -32,10 +31,11 @@ public class Synonyms {
                         writer.print(", ");
                     }
                 }
+                writer.print( " => " + pair.getKey());
                 writer.print("\n");
             }
             writer.close();
-            System.out.println("\\u001B[32mCool! synonyms.txt has been generated in \\u001B[37m"+System.getProperty("user.dir"));
+            System.out.println("Cool! synonyms.txt has been generated in "+System.getProperty("user.dir"));
         } catch (FileNotFoundException e) {
             System.out.println("File not found");
             e.printStackTrace();
