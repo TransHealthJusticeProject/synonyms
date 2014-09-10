@@ -4,6 +4,7 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.elasticsearch.client.Client;
+import org.elasticsearch.common.collect.Lists;
 import org.elasticsearch.common.inject.Injector;
 import org.elasticsearch.common.inject.ModulesBuilder;
 import org.elasticsearch.common.lucene.all.AllEntries;
@@ -24,6 +25,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 import static org.elasticsearch.common.settings.ImmutableSettings.settingsBuilder;
 import static org.junit.Assert.*;
@@ -83,8 +88,12 @@ public class SynonymsTest {
             while (stream.incrementToken()) {
                 sb.append(termAtt.toString()).append(" ");
             }
+            List<String> targetList = Arrays.asList(target.split(" "));
+            Collections.sort(targetList);
+            List<String> analyzedList = Arrays.asList(sb.toString().trim().split(" "));
+            Collections.sort(analyzedList);
 
-            assertEquals(target, sb.toString().trim());
+            assertEquals(targetList, analyzedList);
             stream.close();
         }
         catch(IOException e){
