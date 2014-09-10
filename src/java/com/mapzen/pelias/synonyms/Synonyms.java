@@ -26,12 +26,13 @@ public class Synonyms {
                 @SuppressWarnings("unchecked")
                 ArrayList<String> abbreviations = (ArrayList<String>) pair.getValue();
                 for (String abv : abbreviations) {
-                    writer.print(abv);
+                    writer.print(abv.toLowerCase());
                     if (!(abbreviations.get(abbreviations.size() - 1).equals(abv))) {
                         writer.print(", ");
                     }
                 }
-                writer.print( " => " + pair.getKey());
+                String lowercased = pair.getKey().toString().toLowerCase();
+                writer.print( " => " + lowercased);
                 writer.print("\n");
             }
             writer.close();
