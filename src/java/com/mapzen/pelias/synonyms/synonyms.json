@@ -1,0 +1,35 @@
+{"index": {
+"index": {
+"index_concurrency": "32"
+},
+"uuid": "vxwTLfaOSBa3sdcJLlGKyw",
+"analysis": {
+"filter": {
+"synonym": {
+"type": "synonym",
+"synonyms_path": "analysis/synonyms.txt"
+}
+},
+"analyzer": {
+"pelias": {
+"type": "custom",
+"filter": [
+"unique",
+"synonym"
+],
+"tokenizer": "lowercase"
+},
+"suggestions": {
+"type": "custom",
+"filter": "lowercase",
+"tokenizer": "whitespace"
+}
+}
+},
+"number_of_replicas": "0",
+"number_of_shards": "8",
+"version": {
+"created": "1020199"
+}
+}
+}
